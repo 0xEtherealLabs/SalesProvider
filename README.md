@@ -16,9 +16,11 @@ For Dutch Auctions, the algorithm defaults to linear interpolation. This can be 
 
 ## Chainlink Price Feeds
 
-Documentation on Chainlink Price Feeds can be found here : https://docs.chain.link/data-feeds/price-feeds
+Documentation on Chainlink Price Feeds
+https://docs.chain.link/data-feeds/price-feeds
 
-Price Feed Contract Addresses for testnets and mainnet can be found here: https://docs.chain.link/data-feeds/price-feeds/addresses
+Price Feed Contract Addresses for testnets and mainnet
+https://docs.chain.link/data-feeds/price-feeds/addresses
 
 
 ## Roadmap
@@ -28,6 +30,7 @@ Price Feed Contract Addresses for testnets and mainnet can be found here: https:
 - [ ] Maintain full test coverage
 - [ ] Add NPM package
 - [ ] Provide examples of usage
+- [ ] Potentially allow for forks/contributors in future
 
 ## License
 
