@@ -1,7 +1,7 @@
 # SalesProvider
 
 ## About The Project
-The goal of the SalesProvider is to provide a simple inheritable contract that can be used to manage sales of tokens on the Ethereum blockchain.
+The goal of the SalesProvider is to provide a simple inheritable contract that can be used to manage sales of tokens on the Ethereum blockchain with the aid of Chainlink Price Feeds.
 
 The sales of tokens can be completed in a variety of ways:
 
@@ -13,6 +13,13 @@ The sales of tokens can be completed in a variety of ways:
 - Dutch Auction Eth Pricing
 
 For Dutch Auctions, the algorithm defaults to linear interpolation. This can be overridden by an implementing contract.
+
+## Chainlink Price Feeds
+
+Documentation on Chainlink Price Feeds can be found here : https://docs.chain.link/data-feeds/price-feeds
+
+Price Feed Contract Addresses for testnets and mainnet can be found here: https://docs.chain.link/data-feeds/price-feeds/addresses
+
 
 ## Roadmap
 
