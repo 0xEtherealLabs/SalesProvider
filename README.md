@@ -26,6 +26,7 @@ https://docs.chain.link/data-feeds/price-feeds/addresses
 ## Roadmap
 
 - [ ] Improve general repo and code quality (workflows, comments, etc.)
+- [ ] Continual improvements as use cases increase
 - [ ] Add more documentation on benefits of using SalesProvider
 - [ ] Maintain full test coverage
 - [ ] Add NPM package
