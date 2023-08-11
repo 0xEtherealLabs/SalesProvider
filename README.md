@@ -6,11 +6,11 @@ The goal of the SalesProvider is to provide a simple inheritable contract that c
 The sales of tokens can be completed in a variety of ways:
 
 - Fixed ERC20 Pricing
-- Fixed Eth Pricing
+- Fixed ETH Pricing
 - ERC20/USD Pegged Pricing using Chainlink Price Feeds
-- Eth/USD Pegged Pricing using Chainlink Price Feeds
+- ETH/USD Pegged Pricing using Chainlink Price Feeds
 - Dutch Auction ERC20 Pricing
-- Dutch Auction Eth Pricing
+- Dutch Auction ETH Pricing
 
 For Dutch Auctions, the algorithm defaults to linear interpolation. This can be overridden by an implementing contract.
 
