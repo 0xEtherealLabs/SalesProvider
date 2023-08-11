@@ -1,6 +1,9 @@
 # SalesProvider
 
 ## About The Project
+
+IN BETA - Version 0.1.0-beta.1
+
 The goal of the SalesProvider is to provide a simple inheritable contract that can be used to manage sales of tokens on the Ethereum blockchain with the aid of Chainlink Price Feeds.
 
 The sales of tokens can be completed in a variety of ways:

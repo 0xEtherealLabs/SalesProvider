@@ -1,0 +1,30 @@
+{
+  "name": "salesprovider",
+  "version": "0.1.0-beta.1",
+  "description": "Provides a simple inheritable contract that can be used to manage sales of tokens on the Ethereum blockchain with the aid of Chainlink Price Feeds.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xEtherealLabs/SalesProvider.git"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "smart-contract",
+    "blockchain",
+    "sales",
+    "dapp",
+    "token",
+    "finance",
+    "crypto",
+    "defi"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xEtherealLabs/SalesProvider/issues"
+  },
+  "homepage": "https://github.com/0xEtherealLabs/SalesProvider#readme"
+}
