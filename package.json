@@ -1,5 +1,5 @@
 {
-  "name": "salesprovider",
+  "name": "@ethereal-labs/contracts",
   "version": "0.1.0-beta.1",
   "description": "Provides a simple inheritable contract that can be used to manage sales of tokens on the Ethereum blockchain with the aid of Chainlink Price Feeds.",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xEtherealLabs/SalesProvider.git"
+    "url": "git+https://github.com/0xEtherealLabs/contracts.git"
   },
   "keywords": [
     "ethereum",
@@ -24,7 +24,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/0xEtherealLabs/SalesProvider/issues"
+    "url": "https://github.com/0xEtherealLabs/contracts/issues"
   },
-  "homepage": "https://github.com/0xEtherealLabs/SalesProvider#readme"
+  "homepage": "https://github.com/0xEtherealLabs/contracts#readme"
 }
